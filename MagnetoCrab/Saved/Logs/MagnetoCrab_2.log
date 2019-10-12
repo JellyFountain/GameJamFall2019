@@ -8220,3 +8220,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.12-03.00.55:593][443]LogHttp: Warning: 0000016BA3A6AC00: libcurl info message cache 7 (Closing connection 18)
 [2019.10.12-03.00.55:593][443]LogHttp: Warning: 0000016BA3A6AC00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2019.10.12-03.00.55:924][444]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4CECD05E-46F8-F408-D58C-9DB75812078F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=44f71e534c4754b6a9ba7fbf567b818f%7Ccad8262ab41e4a4ab9848628b08b5b2f%7Ca829b69b-728c-407b-839b-45d3c30c2290&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.12-03.03.20:225][996]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CrabGameContent/PuzzleObjects/Large_Button.Large_Button
+[2019.10.12-03.03.32:555][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.12-03.03.45:479][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-03.04.05:110][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-03.04.14:987][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-03.04.51:222][290]LogSavePackage: Moving '../../../../../GamesInDev/GameJamFa2019/GameJamFall2019/MagnetoCrab/Saved/Large_Button9FF487CF48118BC7A5F4ADA1B105DB65.tmp' to '../../../../../GamesInDev/GameJamFa2019/GameJamFall2019/MagnetoCrab/Content/CrabGameContent/PuzzleObjects/Large_Button.uasset'
