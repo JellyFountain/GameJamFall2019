@@ -1,0 +1,1410 @@
+﻿Log file open, 10/12/19 00:10:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MagnetoCrab
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.102017
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Student Data/Unreal Engine/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.10.12-05.10.01:335][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.12-05.10.01:336][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.12-05.10.01:336][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.12-05.10.01:336][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.12-05.10.01:338][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.12-05.10.01:338][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.12-05.10.01:339][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.12-05.10.01:340][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:340][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.12-05.10.01:340][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.12-05.10.01:340][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.12-05.10.01:340][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.12-05.10.01:342][  0]LogHAL: Display: Platform has ~ 8 GB [8429707264 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.12-05.10.01:342][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.12-05.10.01:343][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.10.12-05.10.01:343][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.10.12-05.10.01:344][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.12-05.10.01:344][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.10.12-05.10.01:344][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.10.12-05.10.01:344][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.12-05.10.01:344][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.12-05.10.01:344][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.12-05.10.01:344][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.12-05.10.01:344][  0]LogInit: Computer: C-1062E5F39AD0
+[2019.10.12-05.10.01:344][  0]LogInit: User: Student
+[2019.10.12-05.10.01:344][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.10.12-05.10.01:344][  0]LogInit: High frequency timer resolution =2.648438 MHz
+[2019.10.12-05.10.01:344][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.10.12-05.10.01:344][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.12-05.10.01:344][  0]LogMemory: Process Physical Memory: 99.91 MB used, 99.91 MB peak
+[2019.10.12-05.10.01:344][  0]LogMemory: Process Virtual Memory: 99.62 MB used, 99.62 MB peak
+[2019.10.12-05.10.01:344][  0]LogMemory: Physical Memory: 4928.31 MB used,  3110.88 MB free, 8039.20 MB total
+[2019.10.12-05.10.01:344][  0]LogMemory: Virtual Memory: 4668.16 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.12-05.10.01:350][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.12-05.10.01:383][  0]LogInit: Using OS detected language (en-US).
+[2019.10.12-05.10.01:383][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.12-05.10.01:384][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.12-05.10.01:680][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.12-05.10.01:680][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.12-05.10.01:940][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.12-05.10.01:940][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.12-05.10.01:959][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.10.12-05.10.01:959][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.12-05.10.02:901][  0]LogD3D11RHI:    1. 'Radeon Pro WX 3100' (Feature Level 11_0)
+[2019.10.12-05.10.02:901][  0]LogD3D11RHI:       1996/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2019.10.12-05.10.02:904][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.12-05.10.02:904][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.12-05.10.02:904][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.10.12-05.10.02:913][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.12-05.10.02:913][  0]LogD3D11RHI:     GPU DeviceId: 0x6985 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.12-05.10.02:913][  0]LogWindows: EnumDisplayDevices:
+[2019.10.12-05.10.02:913][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.10.12-05.10.02:914][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.10.12-05.10.02:914][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.10.12-05.10.02:914][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.12-05.10.02:914][  0]LogD3D11RHI:     Adapter Name: Radeon Pro WX 3100
+[2019.10.12-05.10.02:914][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.12-05.10.02:914][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.12-05.10.02:914][  0]LogRHI: Texture pool is 1397 MB (70% of 1996 MB)
+[2019.10.12-05.10.03:092][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.12-05.10.03:108][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.10.12-05.10.03:541][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.12-05.10.03:553][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.12-05.10.03:567][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.12-05.10.03:578][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.12-05.10.03:592][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.12-05.10.03:605][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.12-05.10.03:616][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.12-05.10.03:628][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.12-05.10.03:635][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.12-05.10.03:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.12-05.10.03:683][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.12-05.10.03:705][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.12-05.10.03:705][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.12-05.10.03:722][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.12-05.10.03:722][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.12-05.10.03:735][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.12-05.10.03:744][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.12-05.10.03:755][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.12-05.10.03:768][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.12-05.10.03:807][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.12-05.10.03:807][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.12-05.10.03:807][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.12-05.10.03:823][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.12-05.10.03:903][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Intermediate/Shaders/WorkingDirectory/14972/).
+[2019.10.12-05.10.03:903][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Student/AppData/Local/Temp/UnrealShaderWorkingDir/82F3183147D5A366DBA2639F177D1B3D/'.
+[2019.10.12-05.10.03:906][  0]LogXGEController: Cleaning working directory: C:/Users/Student/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.12-05.10.03:906][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.12-05.10.03:907][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.12-05.10.03:907][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.12-05.10.04:736][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.12-05.10.04:830][  0]LogDerivedDataCache: Loaded boot cache 0.09s 73MB C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.12-05.10.04:830][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.12-05.10.04:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.12-05.10.04:830][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.12-05.10.04:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.12-05.10.04:830][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.12-05.10.04:844][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.12-05.10.04:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.12-05.10.04:844][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.12-05.10.04:845][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.12-05.10.04:845][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.12-05.10.04:845][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.12-05.10.04:878][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.12-05.10.04:882][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.12-05.10.04:882][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.12-05.10.04:956][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2019.10.12-05.10.05:443][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.12-05.10.05:705][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.12-05.10.05:705][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.12-05.10.05:705][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.12-05.10.05:705][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.12-05.10.05:705][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.12-05.10.05:719][  0]LogNetVersion: MagnetoCrab 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 301710744)
+[2019.10.12-05.10.06:450][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.076345 seconds
+[2019.10.12-05.10.06:466][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.12-05.10.06:466][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.12-05.10.06:466][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.12-05.10.07:740][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.12-05.10.07:744][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.12-05.10.07:824][  0]SourceControl: Source control is disabled
+[2019.10.12-05.10.07:824][  0]SourceControl: Source control is disabled
+[2019.10.12-05.10.07:826][  0]SourceControl: Source control is disabled
+[2019.10.12-05.10.07:827][  0]SourceControl: Source control is disabled
+[2019.10.12-05.10.07:950][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.12-05.10.08:117][  0]LogOcInput: OculusInput pre-init called
+[2019.10.12-05.10.08:125][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.12-05.10.08:125][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.12-05.10.08:228][  0]LogEngine: Initializing Engine...
+[2019.10.12-05.10.08:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.12-05.10.08:230][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.12-05.10.08:571][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.12-05.10.08:597][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.12-05.10.08:655][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.10.08:849][  0]LogInit: FAudioDevice initialized.
+[2019.10.12-05.10.08:850][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.12-05.10.09:030][  0]LogDerivedDataCache: Saved boot cache 0.18s 73MB C:/Users/Student/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.12-05.10.09:050][  0]LogInit: Texture streaming: Enabled
+[2019.10.12-05.10.09:076][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.12-05.10.09:163][  0]LogInit: Transaction tracking system initialized
+[2019.10.12-05.10.09:220][  0]BlueprintLog: New page: Editor Load
+[2019.10.12-05.10.09:344][  0]LocalizationService: Localization service is disabled
+[2019.10.12-05.10.10:506][  0]LogFileCache: Scanning file cache for directory 'D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/' took 0.01s
+[2019.10.12-05.10.10:506][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.12-05.10.10:506][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.12-05.10.10:806][  0]SourceControl: Source control is disabled
+[2019.10.12-05.10.10:806][  0]Cmd: MAP LOAD FILE="../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.12-05.10.10:807][  0]LightingResults: New page: Lighting Build
+[2019.10.12-05.10.10:810][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.10.10:810][  0]MapCheck: New page: Map Check
+[2019.10.12-05.10.10:810][  0]LightingResults: New page: Lighting Build
+[2019.10.12-05.10.10:835][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.12-05.10.11:181][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.12-05.10.11:195][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.12-05.10.11:311][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.10.12-05.10.11:312][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.12-05.10.11:312][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2019.10.12-05.10.11:312][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.507
+[2019.10.12-05.10.11:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.10.11:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.10.11:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.10.11:489][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.10.11:501][  0]LogCollectionManager: Loaded 0 collections in 0.003476 seconds
+[2019.10.12-05.10.11:512][  0]LogFileCache: Scanning file cache for directory 'D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Collections/' took 0.00s
+[2019.10.12-05.10.11:512][  0]LogFileCache: Scanning file cache for directory 'D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Developers/Student/Collections/' took 0.00s
+[2019.10.12-05.10.11:512][  0]LogFileCache: Scanning file cache for directory 'D:/Student Data/Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Collections/' took 0.00s
+[2019.10.12-05.10.11:512][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.10.12-05.10.11:523][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2863 classes and 680 folders.
+[2019.10.12-05.10.11:536][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.12-05.10.11:605][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.12-05.10.11:614][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.12-05.10.11:626][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.12-05.10.11:636][  0]LogSlate: Took 0.001027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.12-05.10.11:644][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.12-05.10.11:750][  0]LogRenderer: Reallocating scene render targets to support 1156x600 Format 9 NumSamples 1 (Frame:1).
+[2019.10.12-05.10.12:374][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.12-05.10.12:374][  0]LogLoad: (Engine Initialization) Total time: 12.83 seconds
+[2019.10.12-05.10.12:374][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.12-05.10.12:393][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.12-05.10.12:441][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.10.12-05.10.12:458][  0]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.12-05.10.12:510][  1]LogAssetRegistry: Asset discovery search completed in 7.5551 seconds
+[2019.10.12-05.10.12:519][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.10.12-05.10.12:520][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000102 seconds (updated 0 objects)
+[2019.10.12-05.10.25:102][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.10.31:752][112]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.12-05.10.33:490][112]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.12-05.10.41:271][573]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/EnemyActor.EnemyActor
+[2019.10.12-05.10.41:695][573]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.12-05.10.42:805][573]LogRenderer: Reallocating scene render targets to support 1156x744 Format 9 NumSamples 1 (Frame:1).
+[2019.10.12-05.10.43:644][606]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.12-05.11.06:660][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.11.09:500][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.11.10:348][894]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.12-05.17.46:881][170]LogEditorTransaction: Undo Create Pin Link
+[2019.10.12-05.21.29:533][817]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.10.12-05.21.29:534][817]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.056
+[2019.10.12-05.21.29:536][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyActor] ([1] browsable assets)...
+[2019.10.12-05.21.29:550][817]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyActor.EnemyActor]
+[2019.10.12-05.21.29:550][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyActor]
+[2019.10.12-05.21.29:582][817]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActor_Auto181BE821343276F50F7FB59B355986E6D.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/EnemyActor_Auto1.uasset'
+[2019.10.12-05.21.29:582][817]LogFileHelpers: Auto-saving content packages took 0.047
+[2019.10.12-05.25.54:357][271]LogEditorTransaction: Undo Add Node
+[2019.10.12-05.29.46:268][429]Cmd: TRANSACTION UNDO
+[2019.10.12-05.29.46:268][429]LogEditorTransaction: Undo Move Node
+[2019.10.12-05.30.32:504][766]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.30.32:736][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.10.12-05.30.41:974][287]Cmd: TRANSACTION UNDO
+[2019.10.12-05.30.41:974][287]LogEditorTransaction: Undo Create Pin Link
+[2019.10.12-05.30.43:902][400]Cmd: TRANSACTION REDO
+[2019.10.12-05.30.43:902][400]LogEditorTransaction: Redo Create Pin Link
+[2019.10.12-05.31.01:477][276]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.31.01:699][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.10.12-05.31.12:014][854]LogObjectTools: Deleting 1 worlds: /Game/Blueprints/NewWorld.NewWorld
+[2019.10.12-05.31.12:014][854]LogObjectTools: Currently 6 active worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4
+[2019.10.12-05.31.12:052][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.12-05.31.14:780][854]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.12-05.31.14:901][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.10.12-05.32.03:183][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.12-05.32.03:356][154]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.32.22:149][656]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/EslisMap.EslisMap
+[2019.10.12-05.32.22:199][656]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.10.12-05.32.25:072][656]LogSlate: Window 'Save Content' being destroyed
+[2019.10.12-05.33.43:027][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.12-05.33.43:027][465]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.051
+[2019.10.12-05.33.43:029][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyActor] ([1] browsable assets)...
+[2019.10.12-05.33.43:044][465]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyActor.EnemyActor]
+[2019.10.12-05.33.43:044][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyActor]
+[2019.10.12-05.33.43:088][465]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActor_Auto229500EED4E48346AF4345491B5AAA7AA.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/EnemyActor_Auto2.uasset'
+[2019.10.12-05.33.43:089][465]LogFileHelpers: Auto-saving content packages took 0.061
+[2019.10.12-05.33.58:326][808]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/EslisMap.EslisMap
+[2019.10.12-05.33.58:377][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.12-05.34.11:203][808]LogSlate: Window 'Save Content' being destroyed
+[2019.10.12-05.34.11:219][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyActor" FILE="../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset" SILENT=true
+[2019.10.12-05.34.11:246][808]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActorD4C064A3400F0F93DE6800A5CF2B07A8.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset'
+[2019.10.12-05.34.11:304][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.12-05.34.11:530][808]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EslisMapF997BB074D4FBFE2F01F11BF2EF1883A.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/EslisMap.umap'
+[2019.10.12-05.34.11:538][808]LogFileHelpers: Saving map 'EslisMap' took 0.289
+[2019.10.12-05.34.11:544][808]Cmd: MAP LOAD FILE="../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/EslisMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.12-05.34.11:545][808]LightingResults: New page: Lighting Build
+[2019.10.12-05.34.11:546][808]LoadErrors: New page: Loading map: EslisMap.umap
+[2019.10.12-05.34.11:547][808]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.34.11:547][808]MapCheck: New page: Map Check
+[2019.10.12-05.34.11:547][808]LightingResults: New page: Lighting Build
+[2019.10.12-05.34.11:585][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.10.12-05.34.11:595][808]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.12-05.34.11:633][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.10.12-05.34.11:669][808]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.12-05.34.11:669][808]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2019.10.12-05.34.11:671][808]LogFileHelpers: Loading map 'EslisMap' took 0.128
+[2019.10.12-05.34.26:849][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.34.31:879][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.34.40:843][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.34.59:478][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.34.59:526][281]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.34.59:767][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.10.12-05.35.00:346][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyActor" FILE="../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset" SILENT=true
+[2019.10.12-05.35.00:388][298]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActor711B59A3443E56EB62E0EEAE8FD69A63.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset'
+[2019.10.12-05.35.06:565][514]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.35.06:592][514]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.06:593][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.35.06:594][514]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:35:06 PM)
+[2019.10.12-05.35.06:595][514]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.12-05.35.06:597][514]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.35.06:615][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017882s)
+[2019.10.12-05.35.06:617][514]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.35.06:617][514]LogPlayLevel: PIE: World Init took: (0.002239s)
+[2019.10.12-05.35.06:617][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.020530s)
+[2019.10.12-05.35.06:654][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.10.12-05.35.06:661][514]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.35.06:821][514]LogInit: FAudioDevice initialized.
+[2019.10.12-05.35.06:832][514]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.35.06:836][514]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.35.06
+[2019.10.12-05.35.06:836][514]LogWorld: Bringing up level for play took: 0.002371
+[2019.10.12-05.35.06:836][514]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.12-05.35.06:852][514]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.12-05.35.06:853][514]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap 0.811
+[2019.10.12-05.35.06:853][514]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.12:749][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.12:750][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.35.12:750][  5]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.35.12:750][  5]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.35.12:762][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.35.12:763][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.12:814][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.35.12:839][  5]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.10.12-05.35.12:861][  6]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.12-05.35.18:680][402]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.35.29:284][871]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.35.29:303][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.29:303][871]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.12-05.35.29:306][871]LogPlayLevel: [PlayLevel] Compiling EnemyActor before play...
+[2019.10.12-05.35.29:588][871]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.10.12-05.35.29:588][871]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2019.10.12-05.35.29:588][871]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:35:29 PM)
+[2019.10.12-05.35.29:590][871]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.35.29:609][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018705s)
+[2019.10.12-05.35.29:610][871]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.35.29:610][871]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2019.10.12-05.35.29:610][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.020327s)
+[2019.10.12-05.35.29:653][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.10.12-05.35.29:660][871]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.35.29:812][871]LogInit: FAudioDevice initialized.
+[2019.10.12-05.35.29:829][871]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.35.29:833][871]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.35.29
+[2019.10.12-05.35.29:833][871]LogWorld: Bringing up level for play took: 0.003704
+[2019.10.12-05.35.29:834][871]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.12-05.35.29:836][871]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.205
+[2019.10.12-05.35.29:837][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.34:478][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.34:479][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.35.34:479][ 81]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.35.34:479][ 81]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.35.34:504][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.35.34:504][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.35.34:554][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.35.34:562][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.10.12-05.35.34:617][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.12-05.36.09:264][789]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.36.09:288][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.09:288][789]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.12-05.36.09:289][789]LogPlayLevel: [PlayLevel] Compiling EnemyActor before play...
+[2019.10.12-05.36.09:566][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.10.12-05.36.09:566][789]LogPlayLevel: PlayLevel: Blueprint regeneration took 277 ms (1 blueprints)
+[2019.10.12-05.36.09:566][789]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:36:09 PM)
+[2019.10.12-05.36.09:568][789]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.36.09:584][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015183s)
+[2019.10.12-05.36.09:586][789]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.36.09:587][789]LogPlayLevel: PIE: World Init took: (0.003160s)
+[2019.10.12-05.36.09:587][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.018744s)
+[2019.10.12-05.36.09:627][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.10.12-05.36.09:648][789]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.36.09:799][789]LogInit: FAudioDevice initialized.
+[2019.10.12-05.36.09:814][789]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.36.09:817][789]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.36.09
+[2019.10.12-05.36.09:818][789]LogWorld: Bringing up level for play took: 0.003143
+[2019.10.12-05.36.09:818][789]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.12-05.36.09:821][789]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.22
+[2019.10.12-05.36.09:821][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.37:297][663]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.36.42:536][892]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.42:536][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.36.42:536][892]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.36.42:536][892]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.36.42:562][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.36.42:562][892]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.42:609][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.36.42:613][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.12-05.36.42:645][893]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.12-05.36.47:667][154]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.36.47:693][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.47:693][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.36.47:694][154]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:36:47 PM)
+[2019.10.12-05.36.47:694][154]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.36.47:710][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016019s)
+[2019.10.12-05.36.47:711][154]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.36.47:711][154]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2019.10.12-05.36.47:711][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.017619s)
+[2019.10.12-05.36.47:751][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.10.12-05.36.47:758][154]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.36.47:911][154]LogInit: FAudioDevice initialized.
+[2019.10.12-05.36.47:919][154]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.36.47:922][154]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.36.47
+[2019.10.12-05.36.47:922][154]LogWorld: Bringing up level for play took: 0.002927
+[2019.10.12-05.36.47:922][154]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.12-05.36.47:924][154]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.117
+[2019.10.12-05.36.47:925][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.56:708][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.56:708][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.36.56:709][987]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.36.56:709][987]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.36.56:728][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.36.56:728][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.36.56:774][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.36.56:778][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.10.12-05.36.56:807][989]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.12-05.36.57:715][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.37.08:143][475]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.37.08:175][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.37.08:176][475]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.12-05.37.08:177][475]LogPlayLevel: [PlayLevel] Compiling EnemyActor before play...
+[2019.10.12-05.37.08:461][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.10.12-05.37.08:461][475]LogPlayLevel: PlayLevel: Blueprint regeneration took 284 ms (1 blueprints)
+[2019.10.12-05.37.08:461][475]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:37:08 PM)
+[2019.10.12-05.37.08:461][475]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.37.08:476][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014923s)
+[2019.10.12-05.37.08:477][475]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.37.08:477][475]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2019.10.12-05.37.08:477][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.016315s)
+[2019.10.12-05.37.08:518][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.12-05.37.08:525][475]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.37.08:678][475]LogInit: FAudioDevice initialized.
+[2019.10.12-05.37.08:694][475]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.37.08:698][475]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.37.08
+[2019.10.12-05.37.08:699][475]LogWorld: Bringing up level for play took: 0.003731
+[2019.10.12-05.37.08:699][475]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.12-05.37.08:702][475]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap 0.661
+[2019.10.12-05.37.08:702][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.37.17:770][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.37.17:771][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.37.17:771][181]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.37.17:771][181]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.37.17:788][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.37.17:788][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.37.17:837][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.37.17:841][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.10.12-05.37.17:873][183]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.12-05.37.19:371][288]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.38.09:530][734]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.38.09:556][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.38.09:556][734]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.12-05.38.09:557][734]LogPlayLevel: [PlayLevel] Compiling EnemyActor before play...
+[2019.10.12-05.38.09:559][734]LogBlueprint: Error: [Compiler EnemyActor] The current value of the ' T ' pin is invalid: 'T' in action 'Inverse Transform Rotation' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.10.12-05.38.09:832][734]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.10.12-05.38.09:832][734]LogPlayLevel: PlayLevel: Blueprint regeneration took 276 ms (1 blueprints)
+[2019.10.12-05.38.09:832][734]BlueprintLog: Warning: Blueprint failed to compile:  EnemyActor
+[2019.10.12-05.38.09:833][734]LogCustomDialog: Dialog displayed:
+[2019.10.12-05.38.13:071][734]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.10.12-05.38.14:688][830]LogSlate: Window 'Message Log' being destroyed
+[2019.10.12-05.38.14:715][830]LogSlate: Window 'Message Log' being destroyed
+[2019.10.12-05.38.16:843][931]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.38.16:855][931]LogBlueprint: Error: [Compiler EnemyActor] The current value of the ' T ' pin is invalid: 'T' in action 'Inverse Transform Rotation' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.10.12-05.38.17:112][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.10.12-05.38.17:709][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyActor" FILE="../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset" SILENT=true
+[2019.10.12-05.38.17:742][955]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActor1317DBDD481F38A59EB87680772FD3E1.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset'
+[2019.10.12-05.38.18:564][994]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.38.18:571][994]LogBlueprint: Error: [Compiler EnemyActor] The current value of the ' T ' pin is invalid: 'T' in action 'Inverse Transform Rotation' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.10.12-05.38.18:829][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.10.12-05.42.07:318][739]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.42.07:611][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.10.12-05.42.08:221][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EnemyActor" FILE="../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset" SILENT=true
+[2019.10.12-05.42.08:269][763]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActorEC9CF0624977493898B255A5D798304A.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Content/Blueprints/EnemyActor.uasset'
+[2019.10.12-05.42.11:044][926]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.42.11:073][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.11:073][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.42.11:073][926]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:42:11 PM)
+[2019.10.12-05.42.11:073][926]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.42.11:093][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020268s)
+[2019.10.12-05.42.11:095][926]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.42.11:096][926]LogPlayLevel: PIE: World Init took: (0.002267s)
+[2019.10.12-05.42.11:096][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.022770s)
+[2019.10.12-05.42.11:139][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.10.12-05.42.11:149][926]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.42.11:314][926]LogInit: FAudioDevice initialized.
+[2019.10.12-05.42.11:328][926]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.42.11:330][926]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.42.11
+[2019.10.12-05.42.11:331][926]LogWorld: Bringing up level for play took: 0.002236
+[2019.10.12-05.42.11:331][926]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.12-05.42.11:334][926]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.707
+[2019.10.12-05.42.11:335][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.14:110][171]LogHttp: Warning: 000001FAAA1E7380: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1DA38985-4E8D-6949-6856-0D9E1F83F906%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=053bf5af49970ae20dbdd499f11dd0bc%7Cf616e9a5a35d42769ffe6c355d7f75ea%7Cd1f17cba-a9ae-4f21-b06f-6f9469bf47af&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.12-05.42.14:110][171]LogHttp: Warning: 000001FAAA1E7380: request failed, libcurl error: 0 (No error)
+[2019.10.12-05.42.14:110][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fa7872ff70 [can pipeline])
+[2019.10.12-05.42.14:110][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2019.10.12-05.42.14:110][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.55.8) port 443 (#21))
+[2019.10.12-05.42.14:110][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.12-05.42.14:110][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.12-05.42.14:111][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.12-05.42.14:111][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.12-05.42.14:111][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 7 (Closing connection 21)
+[2019.10.12-05.42.14:111][171]LogHttp: Warning: 000001FAAA1E7380: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.12-05.42.14:127][172]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1DA38985-4E8D-6949-6856-0D9E1F83F906%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=053bf5af49970ae20dbdd499f11dd0bc%7Cf616e9a5a35d42769ffe6c355d7f75ea%7Cd1f17cba-a9ae-4f21-b06f-6f9469bf47af&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.12-05.42.20:772][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.20:773][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.42.20:773][788]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.42.20:773][788]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.42.20:791][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.42.20:791][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.20:844][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.42.20:849][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.10.12-05.42.20:874][790]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.12-05.42.41:481][853]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.42.41:809][853]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.10.12-05.42.44:089][986]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.42.44:110][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.44:110][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.42.44:110][986]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:42:44 PM)
+[2019.10.12-05.42.44:110][986]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.42.44:130][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019538s)
+[2019.10.12-05.42.44:131][986]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.42.44:131][986]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2019.10.12-05.42.44:131][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.020990s)
+[2019.10.12-05.42.44:179][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.10.12-05.42.44:186][986]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.42.44:345][986]LogInit: FAudioDevice initialized.
+[2019.10.12-05.42.44:356][986]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.42.44:358][986]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.42.44
+[2019.10.12-05.42.44:358][986]LogWorld: Bringing up level for play took: 0.002057
+[2019.10.12-05.42.44:359][986]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.10.12-05.42.44:361][986]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap 0.32
+[2019.10.12-05.42.44:361][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.53:004][773]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.53:005][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.42.53:005][773]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.42.53:005][773]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.42.53:020][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.42.53:020][773]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.42.53:071][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.42.53:076][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.10.12-05.42.53:118][776]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.12-05.43.14:217][828]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.43.14:520][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.10.12-05.43.15:705][885]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.43.15:729][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.43.15:730][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.43.15:730][885]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:43:15 PM)
+[2019.10.12-05.43.15:730][885]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.43.15:747][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016923s)
+[2019.10.12-05.43.15:748][885]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.43.15:748][885]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2019.10.12-05.43.15:748][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.018439s)
+[2019.10.12-05.43.15:791][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2019.10.12-05.43.15:798][885]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.43.15:973][885]LogInit: FAudioDevice initialized.
+[2019.10.12-05.43.15:989][885]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.43.15:993][885]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.43.15
+[2019.10.12-05.43.15:994][885]LogWorld: Bringing up level for play took: 0.003927
+[2019.10.12-05.43.15:994][885]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.10.12-05.43.15:998][885]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.044
+[2019.10.12-05.43.15:998][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.43.24:786][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.43.24:787][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.43.24:787][629]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.43.24:787][629]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.43.24:806][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.43.24:806][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.43.24:856][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.43.24:861][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.10.12-05.43.24:890][631]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.12-05.44.07:753][  8]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.44.08:029][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.10.12-05.44.12:013][277]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.44.12:040][277]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.44.12:040][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.44.12:041][277]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:44:12 PM)
+[2019.10.12-05.44.12:041][277]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.44.12:058][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017371s)
+[2019.10.12-05.44.12:059][277]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.44.12:060][277]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2019.10.12-05.44.12:060][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.018895s)
+[2019.10.12-05.44.12:106][277]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.10.12-05.44.12:113][277]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.44.12:280][277]LogInit: FAudioDevice initialized.
+[2019.10.12-05.44.12:292][277]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.44.12:295][277]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.44.12
+[2019.10.12-05.44.12:295][277]LogWorld: Bringing up level for play took: 0.002706
+[2019.10.12-05.44.12:295][277]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.12-05.44.12:297][277]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap 0.256
+[2019.10.12-05.44.12:297][277]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.44.29:131][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.44.29:132][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.44.29:132][855]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.44.29:132][855]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.44.29:154][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.44.29:155][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.44.29:203][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.44.29:208][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.10.12-05.44.29:228][856]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.12-05.44.29:821][894]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.44.55:312][136]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.44.55:646][136]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.10.12-05.44.58:350][268]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.44.58:380][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.44.58:380][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.44.58:380][268]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:44:58 PM)
+[2019.10.12-05.44.58:381][268]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.44.58:401][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020330s)
+[2019.10.12-05.44.58:402][268]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.44.58:402][268]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2019.10.12-05.44.58:402][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.021775s)
+[2019.10.12-05.44.58:449][268]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.10.12-05.44.58:457][268]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.44.58:626][268]LogInit: FAudioDevice initialized.
+[2019.10.12-05.44.58:634][268]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.44.58:636][268]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.44.58
+[2019.10.12-05.44.58:637][268]LogWorld: Bringing up level for play took: 0.001930
+[2019.10.12-05.44.58:637][268]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.10.12-05.44.58:639][268]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap 0.598
+[2019.10.12-05.44.58:639][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.45.03:134][674]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.45.03:135][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.45.03:135][674]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.45.03:135][674]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.45.03:147][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.45.03:147][674]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.45.03:196][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.45.03:201][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.10.12-05.45.03:244][677]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.12-05.45.04:381][761]LogEditorViewport: Clicking on Actor (LMB): EnemyActor_C (EnemyActor)
+[2019.10.12-05.45.06:998][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.45.18:270][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.12-05.45.20:211][862]LogEditorViewport: Clicking on Actor (LMB): EnemyActor_C (EnemyActor)
+[2019.10.12-05.45.21:727][920]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.45.24:917][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-05.45.40:612][567]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.45.40:898][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.10.12-05.45.53:487][403]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.45.53:511][403]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.45.53:511][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.45.53:512][403]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:45:53 PM)
+[2019.10.12-05.45.53:513][403]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.45.53:533][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020142s)
+[2019.10.12-05.45.53:535][403]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.45.53:535][403]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2019.10.12-05.45.53:535][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.022133s)
+[2019.10.12-05.45.53:580][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.10.12-05.45.53:588][403]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.45.53:742][403]LogInit: FAudioDevice initialized.
+[2019.10.12-05.45.53:749][403]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.45.53:752][403]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.45.53
+[2019.10.12-05.45.53:752][403]LogWorld: Bringing up level for play took: 0.002709
+[2019.10.12-05.45.53:753][403]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.10.12-05.45.53:755][403]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.286
+[2019.10.12-05.45.53:755][403]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.46.09:339][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.46.09:339][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.46.09:339][876]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.46.09:339][876]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.46.09:354][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.46.09:354][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.46.09:403][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.46.09:408][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.10.12-05.46.09:467][878]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.12-05.46.10:208][929]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.46.26:235][647]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.46.26:505][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.10.12-05.46.28:582][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.46.28:607][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.46.28:607][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.46.28:608][768]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:46:28 PM)
+[2019.10.12-05.46.28:609][768]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.46.28:627][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019165s)
+[2019.10.12-05.46.28:629][768]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.46.28:629][768]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2019.10.12-05.46.28:629][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.020979s)
+[2019.10.12-05.46.28:675][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.10.12-05.46.28:682][768]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.46.28:851][768]LogInit: FAudioDevice initialized.
+[2019.10.12-05.46.28:857][768]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.46.28:859][768]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.46.28
+[2019.10.12-05.46.28:859][768]LogWorld: Bringing up level for play took: 0.002361
+[2019.10.12-05.46.28:860][768]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.12-05.46.28:862][768]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap 0.82
+[2019.10.12-05.46.28:862][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.46.56:589][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.46.56:590][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.46.56:590][444]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.46.56:590][444]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.46.56:606][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.46.56:607][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.46.56:653][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.46.56:659][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.10.12-05.46.56:686][446]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.12-05.46.57:497][494]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-05.48.20:718][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.12-05.48.20:990][483]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EslisMap_Auto36E7516E047600207C5B05E99CDC583F0.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/FirstPersonBP/Maps/EslisMap_Auto3.umap'
+[2019.10.12-05.48.20:994][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/EslisMap' took 0.319
+[2019.10.12-05.48.20:994][483]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.319
+[2019.10.12-05.48.20:997][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyActor] ([1] browsable assets)...
+[2019.10.12-05.48.21:011][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyActor.EnemyActor]
+[2019.10.12-05.48.21:011][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyActor]
+[2019.10.12-05.48.21:049][483]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActor_Auto31537E0E0400D724432DCB7B39E911F57.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/EnemyActor_Auto3.uasset'
+[2019.10.12-05.48.21:050][483]LogFileHelpers: Auto-saving content packages took 0.054
+[2019.10.12-05.49.42:119][ 83]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-05.49.42:472][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2019.10.12-05.49.44:680][199]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-05.49.44:711][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.49.44:712][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-05.49.44:712][199]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 7:49:44 PM)
+[2019.10.12-05.49.44:712][199]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.49.44:736][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024387s)
+[2019.10.12-05.49.44:737][199]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-05.49.44:738][199]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2019.10.12-05.49.44:738][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.025973s)
+[2019.10.12-05.49.44:797][199]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2019.10.12-05.49.44:807][199]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-05.49.45:010][199]LogInit: FAudioDevice initialized.
+[2019.10.12-05.49.45:022][199]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-05.49.45:027][199]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-00.49.45
+[2019.10.12-05.49.45:029][199]LogWorld: Bringing up level for play took: 0.006419
+[2019.10.12-05.49.45:029][199]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.12-05.49.45:031][199]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap 0.99
+[2019.10.12-05.49.45:031][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.49.59:099][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.49.59:100][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.49.59:100][229]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-05.49.59:100][229]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-05.49.59:122][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-05.49.59:122][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-05.49.59:180][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-05.49.59:185][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.10.12-05.49.59:213][230]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.12-05.50.00:031][276]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-06.01.38:343][557]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-06.01.38:922][557]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2019.10.12-06.01.43:122][729]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-06.01.43:206][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.01.43:206][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-06.01.43:206][729]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 8:01:43 PM)
+[2019.10.12-06.01.43:206][729]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-06.01.43:238][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032845s)
+[2019.10.12-06.01.43:240][729]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-06.01.43:241][729]LogPlayLevel: PIE: World Init took: (0.002083s)
+[2019.10.12-06.01.43:241][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.035331s)
+[2019.10.12-06.01.43:317][729]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2019.10.12-06.01.43:342][729]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-06.01.43:636][729]LogInit: FAudioDevice initialized.
+[2019.10.12-06.01.43:643][729]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-06.01.43:647][729]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-01.01.43
+[2019.10.12-06.01.43:648][729]LogWorld: Bringing up level for play took: 0.003840
+[2019.10.12-06.01.43:648][729]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.12-06.01.43:656][729]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.385
+[2019.10.12-06.01.43:656][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.01.46:446][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.01.46:447][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.01.46:453][889]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-06.01.46:454][889]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.01.46:481][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-06.01.46:482][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.01.46:558][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.01.46:564][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.10.12-06.01.46:592][890]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.12-06.01.47:391][921]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-06.01.58:131][282]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-06.01.58:579][282]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2019.10.12-06.02.07:904][608]BlueprintLog: New page: Compile EnemyActor
+[2019.10.12-06.02.08:310][608]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.10.12-06.02.11:540][741]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.12-06.02.11:605][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.02.11:605][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.12-06.02.11:605][741]PIE: New page: PIE session: EslisMap (Oct 11, 2019, 8:02:11 PM)
+[2019.10.12-06.02.11:605][741]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-06.02.11:626][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020308s)
+[2019.10.12-06.02.11:629][741]LogAIModule: Creating AISystem for world EslisMap
+[2019.10.12-06.02.11:630][741]LogPlayLevel: PIE: World Init took: (0.003950s)
+[2019.10.12-06.02.11:630][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/EslisMap.EslisMap to /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap (0.024527s)
+[2019.10.12-06.02.11:697][741]LogUObjectHash: Compacting FUObjectHashTables data took  11.86ms
+[2019.10.12-06.02.11:704][741]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Wireless Gaming Dongle)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.12-06.02.11:937][741]LogInit: FAudioDevice initialized.
+[2019.10.12-06.02.11:945][741]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.12-06.02.11:948][741]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap.EslisMap up for play (max tick rate 0) at 2019.10.12-01.02.11
+[2019.10.12-06.02.11:948][741]LogWorld: Bringing up level for play took: 0.002802
+[2019.10.12-06.02.11:949][741]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.12-06.02.11:952][741]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap -0.089
+[2019.10.12-06.02.11:952][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.02.18:381][121]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.12-06.03.19:759][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.03.19:760][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.03.19:760][969]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_EslisMap
+[2019.10.12-06.03.19:760][969]LogWorld: UWorld::CleanupWorld for EslisMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.03.19:786][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.12-06.03.19:788][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap' with GeneratedClass '/Game/FirstPersonBP/Maps/EslisMap.EslisMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/EslisMap.EslisMap:PersistentLevel.EslisMap'
+[2019.10.12-06.03.19:847][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-06.03.19:854][969]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.10.12-06.03.19:892][970]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.12-06.03.45:003][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.10.12-06.03.45:323][130]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EslisMap_Auto4A98623A14FF6E8E5FB48F6B1EF07ABD1.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/FirstPersonBP/Maps/EslisMap_Auto4.umap'
+[2019.10.12-06.03.45:329][130]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/EslisMap' took 0.374
+[2019.10.12-06.03.45:329][130]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.374
+[2019.10.12-06.03.45:331][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyActor] ([1] browsable assets)...
+[2019.10.12-06.03.45:347][130]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyActor.EnemyActor]
+[2019.10.12-06.03.45:347][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyActor]
+[2019.10.12-06.03.45:395][130]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActor_Auto43BB41F534DB8ECAC48A301A932EEE444.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/EnemyActor_Auto4.uasset'
+[2019.10.12-06.03.45:396][130]LogFileHelpers: Auto-saving content packages took 0.066
+[2019.10.12-06.09.17:890][594]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1DA38985-4E8D-6949-6856-0D9E1F83F906%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=053bf5af49970ae20dbdd499f11dd0bc%7Cf616e9a5a35d42769ffe6c355d7f75ea%7Cd1f17cba-a9ae-4f21-b06f-6f9469bf47af&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: request failed, libcurl error: 0 (No error)
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fa7872ff70 [can pipeline])
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 1 (Re-using existing connection! (#36) with host datarouter.ol.epicgames.com)
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.204.243.49) port 443 (#36))
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 7 (Closing connection 36)
+[2019.10.12-06.10.12:436][973]LogHttp: Warning: 000001FABD6D6480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.12-06.10.12:449][974]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1DA38985-4E8D-6949-6856-0D9E1F83F906%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=053bf5af49970ae20dbdd499f11dd0bc%7Cf616e9a5a35d42769ffe6c355d7f75ea%7Cd1f17cba-a9ae-4f21-b06f-6f9469bf47af&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.12-06.10.38:841][227]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/WanderBehavior.WanderBehavior
+[2019.10.12-06.11.09:818][867]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.11.09:822][867]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.12.00:485][977]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_1, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.12.00:485][977]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.12.00:485][977]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_1, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.12.05:040][246]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.13.31:469][972]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.12-06.13.41:360][830]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AIEnemy.
+[2019.10.12-06.13.41:695][860]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AIEnemy.AIEnemy
+[2019.10.12-06.14.20:916][554]LogUObjectHash: Compacting FUObjectHashTables data took   9.95ms
+[2019.10.12-06.14.20:916][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/EslisMap' took 0.081
+[2019.10.12-06.14.20:918][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/EnemyActor] ([1] browsable assets)...
+[2019.10.12-06.14.20:952][554]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/EnemyActor.EnemyActor]
+[2019.10.12-06.14.20:952][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/EnemyActor]
+[2019.10.12-06.14.21:016][554]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/EnemyActor_Auto533E0ABD74F5A910D87CC0AB3BFEE14D5.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/EnemyActor_Auto5.uasset'
+[2019.10.12-06.14.21:017][554]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WanderBehavior] ([1] browsable assets)...
+[2019.10.12-06.14.21:017][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WanderBehavior]
+[2019.10.12-06.14.21:032][554]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/WanderBehavior_Auto579AE87EF4DF35EF7C1C6D8A6CF60BEC4.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/WanderBehavior_Auto5.uasset'
+[2019.10.12-06.14.21:032][554]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AIEnemy] ([1] browsable assets)...
+[2019.10.12-06.14.21:033][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AIEnemy]
+[2019.10.12-06.14.21:033][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AIEnemy" FILE="../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/AIEnemy_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.10.12-06.14.21:047][554]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/AIEnemy_Auto564A72B1441B8CFE6DEA925A718F3AAEA.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/AIEnemy_Auto5.uasset'
+[2019.10.12-06.14.21:048][554]LogFileHelpers: Auto-saving content packages took 0.129
+[2019.10.12-06.16.20:577][736]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.17.22:264][537]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.12-06.17.32:927][445]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AIMovement.
+[2019.10.12-06.17.33:136][461]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/AIMovement.AIMovement
+[2019.10.12-06.20.09:779][452]LogEditorTransaction: Undo Add Node
+[2019.10.12-06.20.22:902][173]LogEditorTransaction: Undo Add Node
+[2019.10.12-06.21.03:184][524]BlueprintLog: New page: Compile AIMovement
+[2019.10.12-06.21.03:186][524]LogBlueprint: Error: [Compiler AIMovement] The current value of the ' Key ' pin is invalid: 'Key' in action 'Set Blackboard Value as Vector' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.10.12-06.21.03:254][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2019.10.12-06.21.39:970][206]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.12-06.22.21:587][102]LogSlate: Window 'Message' being destroyed
+[2019.10.12-06.22.41:835][365]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData2.NewBlackboardData2. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.22.45:668][590]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.22.50:510][884]Cmd: TRANSACTION UNDO
+[2019.10.12-06.22.50:510][884]LogEditorTransaction: Undo Edit Blackboard Asset
+[2019.10.12-06.22.50:511][884]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData2.NewBlackboardData2. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.22.50:842][901]Cmd: TRANSACTION UNDO
+[2019.10.12-06.22.50:842][901]LogEditorTransaction: Undo Edit Blackboard Asset
+[2019.10.12-06.22.50:842][901]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.22.51:026][909]Cmd: TRANSACTION UNDO
+[2019.10.12-06.22.51:027][909]LogEditorTransaction: Undo Change Bool Pin Value
+[2019.10.12-06.22.51:230][920]Cmd: TRANSACTION UNDO
+[2019.10.12-06.22.51:230][920]LogEditorTransaction: Undo Move Node
+[2019.10.12-06.22.51:416][930]Cmd: TRANSACTION UNDO
+[2019.10.12-06.22.51:416][930]LogEditorTransaction: Undo Add Node
+[2019.10.12-06.22.52:092][971]Cmd: TRANSACTION UNDO
+[2019.10.12-06.22.52:092][971]LogEditorTransaction: Undo Move Node
+[2019.10.12-06.22.53:614][ 65]Cmd: TRANSACTION UNDO
+[2019.10.12-06.22.53:615][ 65]LogEditorTransaction: Undo Create Pin Link
+[2019.10.12-06.23.06:395][786]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.06:395][786]LogEditorTransaction: Redo Create Pin Link
+[2019.10.12-06.23.06:582][795]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.06:582][795]LogEditorTransaction: Redo Move Node
+[2019.10.12-06.23.06:771][801]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.06:771][801]LogEditorTransaction: Redo Add Node
+[2019.10.12-06.23.06:935][808]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.06:935][808]LogEditorTransaction: Redo Move Node
+[2019.10.12-06.23.07:103][816]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.07:103][816]LogEditorTransaction: Redo Change Bool Pin Value
+[2019.10.12-06.23.07:297][825]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.07:297][825]LogEditorTransaction: Redo Edit Blackboard Asset
+[2019.10.12-06.23.07:298][825]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData2.NewBlackboardData2. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.23.07:492][835]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.07:492][835]LogEditorTransaction: Redo Edit Blackboard Asset
+[2019.10.12-06.23.07:492][835]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.23.09:729][951]Cmd: TRANSACTION UNDO
+[2019.10.12-06.23.09:729][951]LogEditorTransaction: Undo Edit Blackboard Asset
+[2019.10.12-06.23.09:731][951]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData2.NewBlackboardData2. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.23.10:509][992]Cmd: TRANSACTION UNDO
+[2019.10.12-06.23.10:509][992]LogEditorTransaction: Undo Edit Blackboard Asset
+[2019.10.12-06.23.10:510][992]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.23.10:811][  7]Cmd: TRANSACTION UNDO
+[2019.10.12-06.23.10:811][  7]LogEditorTransaction: Undo Change Bool Pin Value
+[2019.10.12-06.23.11:945][ 65]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.11:946][ 65]LogEditorTransaction: Redo Change Bool Pin Value
+[2019.10.12-06.23.12:528][ 95]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.12:528][ 95]LogEditorTransaction: Redo Edit Blackboard Asset
+[2019.10.12-06.23.12:528][ 95]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData2.NewBlackboardData2. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.23.12:938][117]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.12:938][117]LogEditorTransaction: Redo Edit Blackboard Asset
+[2019.10.12-06.23.12:938][117]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.23.13:303][136]Cmd: TRANSACTION UNDO
+[2019.10.12-06.23.13:303][136]LogEditorTransaction: Undo Edit Blackboard Asset
+[2019.10.12-06.23.13:305][136]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData2.NewBlackboardData2. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.23.13:618][152]Cmd: TRANSACTION UNDO
+[2019.10.12-06.23.13:618][152]LogEditorTransaction: Undo Edit Blackboard Asset
+[2019.10.12-06.23.13:619][152]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.23.13:992][172]Cmd: TRANSACTION UNDO
+[2019.10.12-06.23.13:992][172]LogEditorTransaction: Undo Change Bool Pin Value
+[2019.10.12-06.23.14:468][197]Cmd: TRANSACTION REDO
+[2019.10.12-06.23.14:468][197]LogEditorTransaction: Redo Change Bool Pin Value
+[2019.10.12-06.23.19:819][482]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData.NewBlackboardData. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.23.30:169][861]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2019.10.12-06.23.38:026][189]LogSlate: Window 'Save Asset As' being destroyed
+[2019.10.12-06.23.48:430][793]LogBehaviorTree: Warning: Move To[1]> Failed to find key 'None' in BB asset BlackboardData /Game/Blueprints/NewBlackboardData.NewBlackboardData. BB Key Selector will be set to 'Invalid'
+[2019.10.12-06.25.21:753][661]LogEditorTransaction: Undo Add New Function
+[2019.10.12-06.25.57:002][533]LogEditorTransaction: Undo Add New Function
+[2019.10.12-06.26.29:826][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.10.12-06.26.29:826][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/EslisMap' took 0.052
+[2019.10.12-06.26.29:828][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WanderBehavior] ([1] browsable assets)...
+[2019.10.12-06.26.29:828][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WanderBehavior]
+[2019.10.12-06.26.29:839][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/WanderBehavior_Auto6949A2E1E46DAC2542C3DB8AE95EBA3A4.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/WanderBehavior_Auto6.uasset'
+[2019.10.12-06.26.29:840][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AIMovement] ([1] browsable assets)...
+[2019.10.12-06.26.29:840][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AIMovement]
+[2019.10.12-06.26.29:860][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/AIMovement_Auto6FAADD79C4C0B21A0E5BD13A694F96E33.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/AIMovement_Auto6.uasset'
+[2019.10.12-06.26.29:861][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlackboardData] ([1] browsable assets)...
+[2019.10.12-06.26.29:861][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlackboardData]
+[2019.10.12-06.26.29:870][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/NewBlackboardData_Auto62E83A37640E4B16165C9C38AC5E9E483.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/NewBlackboardData_Auto6.uasset'
+[2019.10.12-06.26.29:871][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlackboardData1] ([1] browsable assets)...
+[2019.10.12-06.26.29:871][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlackboardData1]
+[2019.10.12-06.26.29:879][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/NewBlackboardData1_Auto6AB4574C145E1C72787C9C7890E88B5DA.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/NewBlackboardData1_Auto6.uasset'
+[2019.10.12-06.26.29:880][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlackboardData2] ([1] browsable assets)...
+[2019.10.12-06.26.29:880][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlackboardData2]
+[2019.10.12-06.26.29:887][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/NewBlackboardData2_Auto64CE060164D10CD59F2EFA3B2CE507AD9.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/NewBlackboardData2_Auto6.uasset'
+[2019.10.12-06.26.29:888][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlackboardData3] ([1] browsable assets)...
+[2019.10.12-06.26.29:888][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlackboardData3]
+[2019.10.12-06.26.29:895][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/NewBlackboardData3_Auto6FEF7D3BC4F8C12D6B087D4A4196FDCA1.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/NewBlackboardData3_Auto6.uasset'
+[2019.10.12-06.26.29:896][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlackboardData4] ([1] browsable assets)...
+[2019.10.12-06.26.29:896][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlackboardData4]
+[2019.10.12-06.26.29:903][ 38]LogSavePackage: Moving '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/NewBlackboardData4_Auto6B9B32FB34380AA1D3853488268B3F8E5.tmp' to '../../../../../Documents/GitHub/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Blueprints/NewBlackboardData4_Auto6.uasset'
+[2019.10.12-06.26.29:904][ 38]LogFileHelpers: Auto-saving content packages took 0.076
+[2019.10.12-06.26.50:866][227]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.26.52:304][299]LogSlate: Window 'EnemyActor' being destroyed
+[2019.10.12-06.26.52:350][299]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.12-06.26.52:350][299]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-06.26.57:572][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.10.12-06.27.02:468][658]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.12-06.27.02:493][658]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/Blueprints/WanderBehavior.WanderBehavior
+	Asset Name: /Game/Blueprints/AIEnemy.AIEnemy
+	Asset Name: /Game/Blueprints/AIMovement.AIMovement
+	Asset Name: /Game/Blueprints/EnemyActor.EnemyActor
+	Asset Name: /Game/Blueprints/NewBlackboardData.NewBlackboardData
+	Asset Name: /Game/Blueprints/NewBlackboardData1.NewBlackboardData1
+	Asset Name: /Game/Blueprints/NewBlackboardData2.NewBlackboardData2
+	Asset Name: /Game/Blueprints/NewBlackboardData3.NewBlackboardData3
+	Asset Name: /Game/Blueprints/NewBlackboardData4.NewBlackboardData4
+[2019.10.12-06.27.03:462][658]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.10.12-06.27.03:786][658]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.12-06.27.04:609][658]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.823 s
+[2019.10.12-06.27.04:609][658]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.12-06.27.04:609][658]LogOutputDevice: Error: 
+[2019.10.12-06.27.04:609][658]LogOutputDevice: Error: Ensure condition failed: CurObject != 0 [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2720]
+[2019.10.12-06.27.04:609][658]LogOutputDevice: Error: 
+[2019.10.12-06.27.04:609][658]LogOutputDevice: Error: Stack: 
+[2019.10.12-06.27.04:609][658]LogOutputDevice: Error: [Callstack] 0x00007fff6e62d779 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:609][658]LogOutputDevice: Error: [Callstack] 0x00007fff6df0cc04 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6d70ed67 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6d9a5698 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6d99ee14 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ef758b8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ef914b1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6edd5231 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee5b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee452e8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee39c91 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc4154e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc41426df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc4157340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc413edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffe7f27281 USER32.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffe7f26c53 USER32.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc41587b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee6675c UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee03794 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6da36cd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6deffd1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6deff1fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff5bdce5fc UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff5bee7e07 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff5bec4af8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee0b62a UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee4191e UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff5bf0e6db UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6edd3076 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee43413 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fff6ee387fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc4154a7c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc41426df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc4157340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc413edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffe7f27281 USER32.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffe7f26c53 USER32.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffc41588e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007ff697286980 UE4Editor.exe!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007ff69729a91c UE4Editor.exe!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007ff69729a9fa UE4Editor.exe!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007ff6972ab92c UE4Editor.exe!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007ff6972ae60e UE4Editor.exe!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffe7654034 KERNEL32.DLL!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: [Callstack] 0x00007fffe82f3691 ntdll.dll!UnknownFunction []
+[2019.10.12-06.27.04:610][658]LogOutputDevice: Error: 
+[2019.10.12-06.27.04:613][658]LogStats:                SubmitErrorReport -  0.000 s
