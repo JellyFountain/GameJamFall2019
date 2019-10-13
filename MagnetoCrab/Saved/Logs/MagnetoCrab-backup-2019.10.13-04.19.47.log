@@ -1,0 +1,1609 @@
+﻿Log file open, 10/12/19 22:10:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MagnetoCrab
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.076329
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 965M
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.10.13-03.10.57:090][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.13-03.10.57:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.13-03.10.57:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.13-03.10.57:091][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.13-03.10.57:094][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.13-03.10.57:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.13-03.10.57:095][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.13-03.10.57:095][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.13-03.10.57:095][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.13-03.10.57:098][  0]LogHAL: Display: Platform has ~ 24 GB [25716510720 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.13-03.10.57:098][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.13-03.10.57:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.13-03.10.57:098][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Scalability.ini]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.13-03.10.57:099][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Config/Windows/Engine.ini]
+[2019.10.13-03.10.57:099][  0]LogInit: Computer: DERP_CAT_COMP
+[2019.10.13-03.10.57:099][  0]LogInit: User: bryce000
+[2019.10.13-03.10.57:099][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.13-03.10.57:099][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.13-03.10.57:100][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2019.10.13-03.10.57:100][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.13-03.10.57:100][  0]LogMemory: Process Physical Memory: 101.88 MB used, 101.88 MB peak
+[2019.10.13-03.10.57:100][  0]LogMemory: Process Virtual Memory: 99.20 MB used, 99.20 MB peak
+[2019.10.13-03.10.57:100][  0]LogMemory: Physical Memory: 11752.97 MB used,  12772.21 MB free, 24525.18 MB total
+[2019.10.13-03.10.57:100][  0]LogMemory: Virtual Memory: 4666.75 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.10.13-03.10.57:103][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.13-03.10.57:130][  0]LogInit: Using OS detected language (en-US).
+[2019.10.13-03.10.57:130][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.13-03.10.57:131][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.13-03.10.57:317][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.13-03.10.57:348][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.13-03.10.57:348][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.13-03.10.57:510][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.13-03.10.57:510][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.13-03.10.57:561][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 965M' (Feature Level 11_0)
+[2019.10.13-03.10.57:561][  0]LogD3D11RHI:       2016/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.13-03.10.57:563][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.13-03.10.57:563][  0]LogD3D11RHI:       0/0/12262 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.13-03.10.57:563][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.13-03.10.57:571][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.13-03.10.57:571][  0]LogD3D11RHI:     GPU DeviceId: 0x13d9 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.13-03.10.57:571][  0]LogWindows: EnumDisplayDevices:
+[2019.10.13-03.10.57:571][  0]LogWindows:    0. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2019.10.13-03.10.57:571][  0]LogWindows:    1. 'NVIDIA GeForce GTX 965M' (P:1 D:1)
+[2019.10.13-03.10.57:572][  0]LogWindows:    2. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2019.10.13-03.10.57:572][  0]LogWindows:    3. 'NVIDIA GeForce GTX 965M' (P:0 D:0)
+[2019.10.13-03.10.57:572][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.13-03.10.57:572][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 965M
+[2019.10.13-03.10.57:572][  0]LogD3D11RHI:   Driver Version: 388.57 (internal:23.21.13.8857, unified:388.57)
+[2019.10.13-03.10.57:572][  0]LogD3D11RHI:      Driver Date: 12-4-2017
+[2019.10.13-03.10.57:572][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2019.10.13-03.10.57:603][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.13-03.10.57:615][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.13-03.10.58:132][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.13-03.10.58:142][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.13-03.10.58:151][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.13-03.10.58:161][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.13-03.10.58:171][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.13-03.10.58:181][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.13-03.10.58:190][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.13-03.10.58:200][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.13-03.10.58:205][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.13-03.10.58:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.13-03.10.58:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.13-03.10.58:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.13-03.10.58:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.13-03.10.58:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.13-03.10.58:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.13-03.10.58:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.13-03.10.58:241][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.13-03.10.58:261][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.13-03.10.58:261][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.13-03.10.58:275][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.13-03.10.58:275][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.13-03.10.58:283][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.13-03.10.58:290][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.13-03.10.58:298][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.13-03.10.58:306][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.13-03.10.58:333][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.13-03.10.58:333][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.13-03.10.58:333][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.13-03.10.58:342][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.13-03.10.58:399][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Intermediate/Shaders/WorkingDirectory/11944/).
+[2019.10.13-03.10.58:399][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bryce_000/AppData/Local/Temp/UnrealShaderWorkingDir/D50A47574F74941017DE008BF75B9C37/'.
+[2019.10.13-03.10.58:402][  0]LogXGEController: Cleaning working directory: C:/Users/bryce_000/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.13-03.10.58:402][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.13-03.10.58:402][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.13-03.10.58:402][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.13-03.10.59:048][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.13-03.10.59:109][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/bryce_000/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.13-03.10.59:110][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bryce_000/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.13-03.10.59:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.13-03.10.59:110][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.13-03.10.59:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.13-03.10.59:110][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.13-03.10.59:122][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.13-03.10.59:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.13-03.10.59:122][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.13-03.10.59:124][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bryce_000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.13-03.10.59:124][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.13-03.10.59:124][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.13-03.10.59:146][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.13-03.10.59:149][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.13-03.10.59:149][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.13-03.10.59:205][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2019.10.13-03.10.59:491][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.13-03.10.59:653][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.13-03.10.59:653][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.13-03.10.59:653][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.13-03.10.59:653][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.13-03.10.59:653][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.13-03.10.59:663][  0]LogNetVersion: MagnetoCrab 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 301710744)
+[2019.10.13-03.11.00:117][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.064393 seconds
+[2019.10.13-03.11.00:127][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.13-03.11.00:127][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.13-03.11.00:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.13-03.11.00:980][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.13-03.11.00:983][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.13-03.11.01:037][  0]SourceControl: Source control is disabled
+[2019.10.13-03.11.01:037][  0]SourceControl: Source control is disabled
+[2019.10.13-03.11.01:039][  0]SourceControl: Source control is disabled
+[2019.10.13-03.11.01:040][  0]SourceControl: Source control is disabled
+[2019.10.13-03.11.01:131][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.13-03.11.01:243][  0]LogOcInput: OculusInput pre-init called
+[2019.10.13-03.11.01:251][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.13-03.11.01:251][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.13-03.11.01:322][  0]LogEngine: Initializing Engine...
+[2019.10.13-03.11.01:323][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.13-03.11.01:324][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.13-03.11.01:579][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.13-03.11.01:601][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.13-03.11.01:621][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.11.02:228][  0]LogInit: FAudioDevice initialized.
+[2019.10.13-03.11.02:228][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.13-03.11.02:356][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/bryce_000/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.13-03.11.02:366][  0]LogInit: Texture streaming: Enabled
+[2019.10.13-03.11.02:386][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.13-03.11.02:454][  0]LogInit: Transaction tracking system initialized
+[2019.10.13-03.11.02:488][  0]BlueprintLog: New page: Editor Load
+[2019.10.13-03.11.02:572][  0]LocalizationService: Localization service is disabled
+[2019.10.13-03.11.02:824][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/' took 0.01s
+[2019.10.13-03.11.02:824][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.13-03.11.02:824][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.13-03.11.02:899][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2019.10.13-03.11.02:900][  0]LogLinker: Warning: Failed to load '/Engine/BasicShapes/Cube': Can't find file.
+[2019.10.13-03.11.02:900][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2019.10.13-03.11.03:021][  0]SourceControl: Source control is disabled
+[2019.10.13-03.11.03:021][  0]LightingResults: New page: Lighting Build
+[2019.10.13-03.11.03:024][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.11.03:024][  0]MapCheck: New page: Map Check
+[2019.10.13-03.11.03:024][  0]LightingResults: New page: Lighting Build
+[2019.10.13-03.11.03:050][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.10.13-03.11.03:216][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Wyatt/Blueprints/FirstPersonGameMode.uasset' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:217][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Wyatt/Blueprints/FirstPersonGameMode.uasset' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:217][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Wyatt/Blueprints/FirstPersonGameMode.uasset' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:217][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Wyatt/Blueprints/FirstPersonGameMode.uasset' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:218][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:218][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:218][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:218][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:218][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:218][  0]LoadErrors: Failed to load /Game/Wyatt/Blueprints/FirstPersonHUD.FirstPersonHUD_C Referenced by Default__FirstPersonGameMode_C
+[2019.10.13-03.11.03:218][  0]LogLinker: Warning: While loading '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/Wyatt/Blueprints/FirstPersonHUD': Can't find file.
+[2019.10.13-03.11.03:218][  0]LoadErrors: Failed to load /Game/Wyatt/Blueprints/FirstPersonHUD.FirstPersonHUD_C Referenced by Default__FirstPersonGameMode_C
+[2019.10.13-03.11.03:267][  0]LogMaterial: Display: Missing cached shader map for material M_Particle_Lazer, compiling. 
+[2019.10.13-03.11.03:322][  0]LogMaterial: Display: Missing cached shader map for material M_Sparks, compiling. 
+[2019.10.13-03.11.03:347][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2019.10.13-03.11.03:347][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2019.10.13-03.11.03:347][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2019.10.13-03.11.03:347][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.10.13-03.11.03:347][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 31
+[2019.10.13-03.11.03:347][  0]LogStaticMesh: Building static mesh Crab_Claw...
+[2019.10.13-03.11.03:358][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Wyatt/Models/Crab_Claw.Crab_Claw
+[2019.10.13-03.11.03:380][  0]LogMaterial: Display: Missing cached shader map for material M_Crab_Claw, compiling. 
+[2019.10.13-03.11.03:481][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.13-03.11.03:506][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.13-03.11.03:546][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.10.13-03.11.03:546][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.13-03.11.03:547][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2019.10.13-03.11.03:547][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.525
+[2019.10.13-03.11.03:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.11.03:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.11.03:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.11.03:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.11.03:780][  0]LogCollectionManager: Loaded 0 collections in 0.003734 seconds
+[2019.10.13-03.11.03:793][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Collections/' took 0.00s
+[2019.10.13-03.11.03:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Developers/bryce000/Collections/' took 0.00s
+[2019.10.13-03.11.03:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Collections/' took 0.00s
+[2019.10.13-03.11.03:794][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2019.10.13-03.11.03:811][  0]LogContentBrowser: Native class hierarchy populated in 0.0170 seconds. Added 2863 classes and 680 folders.
+[2019.10.13-03.11.03:826][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.10.13-03.11.03:919][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.10.13-03.11.03:933][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.10.13-03.11.03:960][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.13-03.11.03:963][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.13-03.11.03:970][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.13-03.11.04:078][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.10.13-03.11.04:294][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.10.13-03.11.04:295][  0]LogLoad: (Engine Initialization) Total time: 8.47 seconds
+[2019.10.13-03.11.04:295][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.13-03.11.04:375][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.13-03.11.04:379][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-03.11.04:436][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.13-03.11.04:504][  1]LogAssetRegistry: Asset discovery search completed in 5.3002 seconds
+[2019.10.13-03.11.04:513][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.10.13-03.11.04:513][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000108 seconds (updated 0 objects)
+[2019.10.13-03.11.06:651][ 83]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 97
+[2019.10.13-03.11.08:248][163]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2019.10.13-03.11.08:932][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2019.10.13-03.11.09:704][238]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2019.10.13-03.11.09:906][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2019.10.13-03.11.11:360][326]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2019.10.13-03.11.12:949][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2019.10.13-03.11.13:670][449]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2019.10.13-03.11.15:038][517]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.10.13-03.11.16:494][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.13-03.11.16:960][614]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.10.13-03.11.16:995][616]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.13-03.11.17:172][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.13-03.11.17:810][654]LogSlate: Window 'Message Log' being destroyed
+[2019.10.13-03.11.17:817][654]LogSlate: Window 'Message Log' being destroyed
+[2019.10.13-03.11.18:378][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.13-03.11.18:761][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.13-03.11.19:028][726]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.13-03.11.22:963][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.11.25:921][136]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.13-03.11.25:955][136]LogBlueprint: Error: [Compiler Door_Button] In use pin  Button to Door  no longer exists on node  Lock_Door . Please refresh node or break links to remove pin.
+[2019.10.13-03.11.25:957][136]LogBlueprint: Error: [Compiler Door_Button] Lock_Door  Signature Error: Unable to find the selected function/event: 'Lock_Door' - has it been deleted?
+[2019.10.13-03.11.25:998][136]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.11.26:015][136]LogAssetEditorManager: Opening Asset editor for World /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test
+[2019.10.13-03.11.26:042][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.10.13-03.11.26:043][136]Cmd: MAP LOAD FILE="../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Bryces_Literal_Shit/Bryce_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.13-03.11.26:043][136]LightingResults: New page: Lighting Build
+[2019.10.13-03.11.26:044][136]LoadErrors: New page: Loading map: Bryce_test.umap
+[2019.10.13-03.11.26:045][136]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.11.26:045][136]MapCheck: New page: Map Check
+[2019.10.13-03.11.26:045][136]LightingResults: New page: Lighting Build
+[2019.10.13-03.11.26:071][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.13-03.11.26:078][136]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.13-03.11.26:106][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.13-03.11.26:142][136]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.13-03.11.26:142][136]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.10.13-03.11.26:142][136]LogFileHelpers: Loading map 'Bryce_test' took 0.100
+[2019.10.13-03.11.27:821][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.11.27:905][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.11.27:923][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.11.27:923][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.11.27:923][221]BlueprintLog: Warning: Blueprint failed to compile:  Door_Button
+[2019.10.13-03.11.27:923][221]LogCustomDialog: Dialog displayed:
+[2019.10.13-03.11.33:659][221]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.10.13-03.11.35:003][301]LogSlate: Window 'Message Log' being destroyed
+[2019.10.13-03.11.35:007][301]LogSlate: Window 'Message Log' being destroyed
+[2019.10.13-03.11.37:397][402]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Bryces_Literal_Shit/Door_Button.Door_Button
+[2019.10.13-03.11.37:643][402]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.10.13-03.11.38:565][402]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.13-03.11.38:653][403]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.13-03.11.48:855][  2]BlueprintLog: New page: Compile Door_Button
+[2019.10.13-03.11.49:054][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.10.13-03.11.51:862][164]LogSlate: Window 'Door_Button' being destroyed
+[2019.10.13-03.11.51:867][164]LogSlate: Window 'Door_Button' being destroyed
+[2019.10.13-03.11.51:889][164]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.11.54:229][275]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Bryces_Literal_Shit/Button_to_door.Button_to_door
+[2019.10.13-03.11.57:350][438]BlueprintLog: New page: Compile Button_to_door
+[2019.10.13-03.11.57:545][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2019.10.13-03.11.58:476][490]LogSlate: Window 'Button_to_door' being destroyed
+[2019.10.13-03.11.58:481][490]LogSlate: Window 'Button_to_door' being destroyed
+[2019.10.13-03.11.58:509][490]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.11.59:296][534]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.11.59:314][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.11.59:314][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.11.59:314][534]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:11:59 PM)
+[2019.10.13-03.11.59:315][534]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.13-03.11.59:316][534]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.11.59:335][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018348s)
+[2019.10.13-03.11.59:336][534]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.11.59:336][534]LogPlayLevel: PIE: World Init took: (0.001505s)
+[2019.10.13-03.11.59:336][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.020165s)
+[2019.10.13-03.11.59:374][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.10.13-03.11.59:380][534]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.11.59:399][534]LogInit: FAudioDevice initialized.
+[2019.10.13-03.11.59:410][534]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.11.59:413][534]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.11.59
+[2019.10.13-03.11.59:414][534]LogWorld: Bringing up level for play took: 0.001870
+[2019.10.13-03.11.59:414][534]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.10.13-03.11.59:416][534]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.11.59:425][534]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.13-03.11.59:426][534]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test -0.617
+[2019.10.13-03.11.59:426][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.09:991][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.09:991][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.12.09:991][149]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.12.09:991][149]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.12.09:999][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.12.10:000][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.10:039][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.12.10:092][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.10.13-03.12.10:113][150]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.13-03.12.15:231][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.12.15:281][457]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.12.15:300][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.15:300][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.12.15:300][457]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:12:15 PM)
+[2019.10.13-03.12.15:300][457]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.12.15:314][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013791s)
+[2019.10.13-03.12.15:315][457]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.12.15:316][457]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2019.10.13-03.12.15:316][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.015385s)
+[2019.10.13-03.12.15:375][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.13-03.12.15:381][457]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.12.15:399][457]LogInit: FAudioDevice initialized.
+[2019.10.13-03.12.15:405][457]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.12.15:407][457]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.12.15
+[2019.10.13-03.12.15:407][457]LogWorld: Bringing up level for play took: 0.001774
+[2019.10.13-03.12.15:407][457]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.13-03.12.15:409][457]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.12.15:409][457]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test -0.634
+[2019.10.13-03.12.15:409][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.18:610][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.18:610][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.12.18:610][648]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.12.18:610][648]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.12.18:618][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.12.18:618][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.18:654][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.12.18:657][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.13-03.12.18:721][651]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.13-03.12.38:886][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.12.58:384][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.12.58:418][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.12.58:438][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.12.58:438][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.12.58:438][963]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:12:58 PM)
+[2019.10.13-03.12.58:438][963]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.12.58:453][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015049s)
+[2019.10.13-03.12.58:455][963]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.12.58:455][963]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2019.10.13-03.12.58:455][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.016884s)
+[2019.10.13-03.12.58:492][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.13-03.12.58:498][963]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.12.58:516][963]LogInit: FAudioDevice initialized.
+[2019.10.13-03.12.58:525][963]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.12.58:527][963]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.12.58
+[2019.10.13-03.12.58:527][963]LogWorld: Bringing up level for play took: 0.001790
+[2019.10.13-03.12.58:528][963]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.10.13-03.12.58:529][963]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.12.58:530][963]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.487
+[2019.10.13-03.12.58:530][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.13.20:589][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.13.20:589][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.13.20:589][276]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.13.20:590][276]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.13.20:602][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.13.20:602][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.13.20:638][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.13.20:643][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.10.13-03.13.20:720][278]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.13-03.13.24:868][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.13.24:934][529]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.13.24:953][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.13.24:953][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.13.24:953][529]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:13:24 PM)
+[2019.10.13-03.13.24:953][529]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.13.24:968][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014581s)
+[2019.10.13-03.13.24:970][529]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.13.24:970][529]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2019.10.13-03.13.24:970][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.016336s)
+[2019.10.13-03.13.25:004][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.13-03.13.25:009][529]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.13.25:027][529]LogInit: FAudioDevice initialized.
+[2019.10.13-03.13.25:032][529]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.13.25:034][529]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.13.25
+[2019.10.13-03.13.25:034][529]LogWorld: Bringing up level for play took: 0.001765
+[2019.10.13-03.13.25:034][529]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.13-03.13.25:036][529]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.13.25:036][529]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.993
+[2019.10.13-03.13.25:036][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.13.37:015][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.13.37:015][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.13.37:015][245]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.13.37:015][245]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.13.37:025][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.13.37:025][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.13.37:059][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.13.37:063][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.10.13-03.13.37:125][248]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.13-03.13.40:549][451]LogEditorViewport: Clicking on Actor (LMB): Door_Button_C (Door_Button)
+[2019.10.13-03.13.43:910][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.13-03.13.49:721][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.10.13-03.13.52:216][122]LogEditorViewport: Clicking on Actor (LMB): MagneticObject_C (MagneticObject)
+[2019.10.13-03.13.55:699][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.14.06:573][771]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Bryces_Literal_Shit/Button_to_door.Button_to_door
+[2019.10.13-03.14.41:572][783]BlueprintLog: New page: Compile Button_to_door
+[2019.10.13-03.14.41:777][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.10.13-03.14.43:219][867]LogSlate: Window 'Button_to_door' being destroyed
+[2019.10.13-03.14.43:226][867]LogSlate: Window 'Button_to_door' being destroyed
+[2019.10.13-03.14.43:226][867]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.14.44:045][912]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.14.44:065][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.14.44:065][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.14.44:065][912]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:14:44 PM)
+[2019.10.13-03.14.44:065][912]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.14.44:079][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015007s)
+[2019.10.13-03.14.44:080][912]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.14.44:081][912]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2019.10.13-03.14.44:081][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.016548s)
+[2019.10.13-03.14.44:119][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.10.13-03.14.44:128][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.14.44:146][912]LogInit: FAudioDevice initialized.
+[2019.10.13-03.14.44:152][912]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.14.44:155][912]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.14.44
+[2019.10.13-03.14.44:155][912]LogWorld: Bringing up level for play took: 0.001909
+[2019.10.13-03.14.44:155][912]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.10.13-03.14.44:157][912]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.14.44:157][912]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.115
+[2019.10.13-03.14.44:158][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.15.05:060][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.15.05:061][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.15.05:061][164]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.15.05:061][164]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.15.05:070][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.15.05:071][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.15.05:105][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.15.05:109][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.10.13-03.15.05:173][166]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.13-03.16.58:650][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.16.58:733][979]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.16.58:753][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.16.58:753][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.16.58:753][979]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:16:58 PM)
+[2019.10.13-03.16.58:753][979]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.16.58:769][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016032s)
+[2019.10.13-03.16.58:771][979]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.16.58:771][979]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2019.10.13-03.16.58:771][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.017749s)
+[2019.10.13-03.16.58:806][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.10.13-03.16.58:812][979]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.16.58:831][979]LogInit: FAudioDevice initialized.
+[2019.10.13-03.16.58:840][979]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.16.58:842][979]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.16.58
+[2019.10.13-03.16.58:842][979]LogWorld: Bringing up level for play took: 0.001835
+[2019.10.13-03.16.58:843][979]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.10.13-03.16.58:844][979]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.16.58:845][979]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.802
+[2019.10.13-03.16.58:845][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.17:570][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.17:570][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.17.17:570][100]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.17.17:570][100]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.17.17:578][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.17.17:578][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.17:614][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.17.17:619][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.10.13-03.17.17:681][103]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.13-03.17.18:365][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.17.18:415][147]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.17.18:434][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.18:434][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.17.18:434][147]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:17:18 PM)
+[2019.10.13-03.17.18:434][147]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.17.18:450][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015141s)
+[2019.10.13-03.17.18:451][147]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.17.18:451][147]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2019.10.13-03.17.18:451][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.016747s)
+[2019.10.13-03.17.18:484][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.13-03.17.18:490][147]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.17.18:508][147]LogInit: FAudioDevice initialized.
+[2019.10.13-03.17.18:519][147]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.17.18:521][147]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.17.18
+[2019.10.13-03.17.18:521][147]LogWorld: Bringing up level for play took: 0.001791
+[2019.10.13-03.17.18:521][147]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.13-03.17.18:523][147]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.17.18:523][147]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.48
+[2019.10.13-03.17.18:524][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.41:307][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.41:307][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.17.41:307][513]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.17.41:308][513]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.17.41:320][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.17.41:320][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.41:357][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.17.41:361][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.13-03.17.41:408][515]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.13-03.17.42:191][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.17.42:258][566]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.17.42:279][566]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.17.42:279][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.17.42:279][566]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:17:42 PM)
+[2019.10.13-03.17.42:279][566]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.17.42:294][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014907s)
+[2019.10.13-03.17.42:295][566]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.17.42:296][566]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2019.10.13-03.17.42:296][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.016743s)
+[2019.10.13-03.17.42:329][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.13-03.17.42:334][566]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.17.42:352][566]LogInit: FAudioDevice initialized.
+[2019.10.13-03.17.42:359][566]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.17.42:361][566]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.17.42
+[2019.10.13-03.17.42:362][566]LogWorld: Bringing up level for play took: 0.001837
+[2019.10.13-03.17.42:362][566]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.13-03.17.42:364][566]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.17.42:364][566]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.321
+[2019.10.13-03.17.42:364][566]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.18.57:718][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.18.57:718][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.18.57:718][ 84]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.18.57:718][ 84]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.18.57:727][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.18.57:728][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.18.57:765][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.18.57:770][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.13-03.18.57:819][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.13-03.24.32:750][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.13-03.24.33:014][264]LogSavePackage: Moving '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Bryce_test_Auto1E4B24289418D9F18C87760A78B288901.tmp' to '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Bryces_Literal_Shit/Bryce_test_Auto1.umap'
+[2019.10.13-03.24.33:019][264]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Bryces_Literal_Shit/Bryce_test' took 0.301
+[2019.10.13-03.24.33:019][264]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.301
+[2019.10.13-03.24.33:021][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bryces_Literal_Shit/Button_to_door] ([1] browsable assets)...
+[2019.10.13-03.24.33:137][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bryces_Literal_Shit/Button_to_door.Button_to_door]
+[2019.10.13-03.24.33:137][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bryces_Literal_Shit/Button_to_door]
+[2019.10.13-03.24.33:176][264]LogSavePackage: Moving '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Button_to_door_Auto1B66181C8472BAB96DF0BE299A15EF26A.tmp' to '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Bryces_Literal_Shit/Button_to_door_Auto1.uasset'
+[2019.10.13-03.24.33:178][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bryces_Literal_Shit/Door_Button] ([1] browsable assets)...
+[2019.10.13-03.24.33:201][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bryces_Literal_Shit/Door_Button.Door_Button]
+[2019.10.13-03.24.33:201][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bryces_Literal_Shit/Door_Button]
+[2019.10.13-03.24.33:255][264]LogSavePackage: Moving '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Door_Button_Auto1916608464B7E19A0EEF3FDB2F915A900.tmp' to '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Autosaves/Game/Bryces_Literal_Shit/Door_Button_Auto1.uasset'
+[2019.10.13-03.24.33:257][264]LogFileHelpers: Auto-saving content packages took 0.236
+[2019.10.13-03.39.38:498][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.41.18:349][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.41.23:526][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.41.23:593][864]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.41.23:614][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.41.23:614][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.41.23:614][864]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:41:23 PM)
+[2019.10.13-03.41.23:614][864]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.41.23:630][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016155s)
+[2019.10.13-03.41.23:631][864]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.41.23:632][864]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2019.10.13-03.41.23:632][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.017662s)
+[2019.10.13-03.41.23:670][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.13-03.41.23:678][864]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.41.23:697][864]LogInit: FAudioDevice initialized.
+[2019.10.13-03.41.23:705][864]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.41.23:708][864]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.41.23
+[2019.10.13-03.41.23:708][864]LogWorld: Bringing up level for play took: 0.001877
+[2019.10.13-03.41.23:708][864]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.13-03.41.23:710][864]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.41.23:710][864]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test -0.333
+[2019.10.13-03.41.23:710][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.42.11:583][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.42.11:583][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.42.11:584][735]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.42.11:584][735]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.42.11:593][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.42.11:594][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.42.11:632][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.42.11:637][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2019.10.13-03.42.11:728][737]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.13-03.42.14:803][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.42.14:869][925]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.42.14:891][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.42.14:891][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.42.14:891][925]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:42:14 PM)
+[2019.10.13-03.42.14:891][925]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.42.14:906][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014838s)
+[2019.10.13-03.42.14:908][925]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.42.14:908][925]LogPlayLevel: PIE: World Init took: (0.001718s)
+[2019.10.13-03.42.14:908][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.016717s)
+[2019.10.13-03.42.14:945][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.10.13-03.42.14:952][925]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.42.14:969][925]LogInit: FAudioDevice initialized.
+[2019.10.13-03.42.14:975][925]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.42.14:977][925]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.42.14
+[2019.10.13-03.42.14:977][925]LogWorld: Bringing up level for play took: 0.001749
+[2019.10.13-03.42.14:977][925]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.13-03.42.14:979][925]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.42.14:979][925]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.936
+[2019.10.13-03.42.14:980][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.43.43:834][253]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-541.89 Y=-102.03 Z=0.00 Location: X=218.94 Y=-673.81 Z=266.42 Normal: X=0.18 Y=-0.44 Z=-0.88 PenetrationDepth:2.663 Actor:MagneticObject_2 Component:Sphere BoneName:None (0 other events since notify)
+[2019.10.13-03.44.05:119][530]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-310.35 Y=-513.50 Z=0.00 Location: X=126.20 Y=1168.35 Z=266.62 Normal: X=-0.44 Y=0.80 Z=-0.40 PenetrationDepth:9.599 Actor:MagneticObject_2 Component:Sphere BoneName:None (0 other events since notify)
+[2019.10.13-03.44.07:586][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.07:587][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.44.07:587][678]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.44.07:587][678]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.44.07:596][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.44.07:596][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.07:635][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.44.07:640][678]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.13-03.44.07:689][680]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.13-03.44.08:839][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.44.08:922][754]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.44.08:944][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.08:944][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.44.08:944][754]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:44:08 PM)
+[2019.10.13-03.44.08:944][754]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.44.08:958][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013994s)
+[2019.10.13-03.44.08:959][754]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.44.08:959][754]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2019.10.13-03.44.08:959][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.015510s)
+[2019.10.13-03.44.08:994][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.13-03.44.08:999][754]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.44.09:017][754]LogInit: FAudioDevice initialized.
+[2019.10.13-03.44.09:022][754]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.44.09:025][754]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.44.09
+[2019.10.13-03.44.09:025][754]LogWorld: Bringing up level for play took: 0.001757
+[2019.10.13-03.44.09:025][754]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.13-03.44.09:027][754]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.44.09:028][754]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.985
+[2019.10.13-03.44.09:028][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.17:829][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.17:829][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.44.17:829][281]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.44.17:829][281]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.44.17:839][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.44.17:839][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.17:875][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.44.17:880][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.10.13-03.44.17:930][283]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.13-03.44.18:696][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.44.18:764][333]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.44.18:784][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.18:784][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.44.18:784][333]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:44:18 PM)
+[2019.10.13-03.44.18:784][333]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.44.18:797][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012598s)
+[2019.10.13-03.44.18:798][333]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.44.18:798][333]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2019.10.13-03.44.18:798][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.014265s)
+[2019.10.13-03.44.18:833][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.13-03.44.18:838][333]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.44.18:855][333]LogInit: FAudioDevice initialized.
+[2019.10.13-03.44.18:861][333]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.44.18:864][333]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.44.18
+[2019.10.13-03.44.18:864][333]LogWorld: Bringing up level for play took: 0.001765
+[2019.10.13-03.44.18:864][333]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.10.13-03.44.18:866][333]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.44.18:866][333]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.823
+[2019.10.13-03.44.18:866][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.44.43:020][780]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=333.03 Y=499.09 Z=0.00 Location: X=-1378.23 Y=-1156.49 Z=266.57 Normal: X=-0.34 Y=-0.85 Z=-0.40 PenetrationDepth:14.146 Actor:MagneticObject_2 Component:Sphere BoneName:None (0 other events since notify)
+[2019.10.13-03.45.07:791][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.45.07:791][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.45.07:791][266]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.45.07:792][266]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.45.07:802][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.45.07:802][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.45.07:842][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.45.07:846][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.10.13-03.45.07:890][268]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.13-03.45.40:042][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.45.40:092][200]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.45.40:112][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.45.40:112][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.45.40:113][200]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:45:40 PM)
+[2019.10.13-03.45.40:113][200]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.45.40:126][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013190s)
+[2019.10.13-03.45.40:127][200]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.45.40:128][200]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2019.10.13-03.45.40:128][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.014820s)
+[2019.10.13-03.45.40:161][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.10.13-03.45.40:166][200]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.45.40:184][200]LogInit: FAudioDevice initialized.
+[2019.10.13-03.45.40:189][200]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.45.40:192][200]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.45.40
+[2019.10.13-03.45.40:192][200]LogWorld: Bringing up level for play took: 0.001803
+[2019.10.13-03.45.40:193][200]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.10.13-03.45.40:194][200]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.45.40:195][200]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.152
+[2019.10.13-03.45.40:195][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: request failed, libcurl error: 0 (No error)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23f8c333f70 [can pipeline])
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 1 (Re-using existing connection! (#16) with host datarouter.ol.epicgames.com)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.51.163) port 443 (#16))
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 7 (Closing connection 16)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: 0000024001F42480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-03.46.04:388][650]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-03.46.07:117][813]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-93.41 Y=-592.68 Z=0.00 Location: X=1272.42 Y=-37.86 Z=266.57 Normal: X=0.35 Y=0.59 Z=-0.73 PenetrationDepth:4.239 Actor:MagneticObject_2 Component:Sphere BoneName:None (0 other events since notify)
+[2019.10.13-03.46.08:983][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.08:983][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.46.08:984][925]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.46.08:984][925]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.46.08:992][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.46.08:992][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.09:028][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.46.09:032][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.13-03.46.09:082][927]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.13-03.46.10:149][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.46.10:232][996]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.46.10:251][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.10:252][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.46.10:252][996]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:46:10 PM)
+[2019.10.13-03.46.10:252][996]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.46.10:265][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013674s)
+[2019.10.13-03.46.10:267][996]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.46.10:267][996]LogPlayLevel: PIE: World Init took: (0.001633s)
+[2019.10.13-03.46.10:267][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.015504s)
+[2019.10.13-03.46.10:300][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.13-03.46.10:305][996]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.46.10:323][996]LogInit: FAudioDevice initialized.
+[2019.10.13-03.46.10:334][996]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.46.10:337][996]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.46.10
+[2019.10.13-03.46.10:337][996]LogWorld: Bringing up level for play took: 0.001861
+[2019.10.13-03.46.10:337][996]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.10.13-03.46.10:339][996]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.46.10:339][996]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.296
+[2019.10.13-03.46.10:340][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.13:975][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.13:976][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.46.13:976][213]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.46.13:976][213]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.46.13:984][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.46.13:984][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.14:020][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.46.14:024][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.13-03.46.14:085][216]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.13-03.46.16:802][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-03.46.16:885][384]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.13-03.46.16:904][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.16:904][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.13-03.46.16:904][384]PIE: New page: PIE session: Bryce_test (Oct 12, 2019, 5:46:16 PM)
+[2019.10.13-03.46.16:904][384]LogPlayLevel: Creating play world package: /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.46.16:917][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012982s)
+[2019.10.13-03.46.16:919][384]LogAIModule: Creating AISystem for world Bryce_test
+[2019.10.13-03.46.16:919][384]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2019.10.13-03.46.16:919][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bryces_Literal_Shit/Bryce_test.Bryce_test to /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test (0.014715s)
+[2019.10.13-03.46.16:950][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.10.13-03.46.16:956][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.13-03.46.16:972][384]LogInit: FAudioDevice initialized.
+[2019.10.13-03.46.16:984][384]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.13-03.46.16:986][384]LogWorld: Bringing World /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test.Bryce_test up for play (max tick rate 60) at 2019.10.12-22.46.16
+[2019.10.13-03.46.16:986][384]LogWorld: Bringing up level for play took: 0.001750
+[2019.10.13-03.46.16:986][384]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.10.13-03.46.16:988][384]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.10.13-03.46.16:988][384]PIE: Play in editor start time for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test 0.945
+[2019.10.13-03.46.16:989][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.46.43:308][962]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=599.86 Y=-12.84 Z=0.00 Location: X=-1611.08 Y=1588.74 Z=266.31 Normal: X=-0.42 Y=-0.15 Z=-0.89 PenetrationDepth:0.773 Actor:MagneticObject_2 Component:Sphere BoneName:None (0 other events since notify)
+[2019.10.13-03.47.06:026][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.47.06:026][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.47.06:026][325]LogWorld: BeginTearingDown for /Game/Bryces_Literal_Shit/UEDPIE_0_Bryce_test
+[2019.10.13-03.47.06:026][325]LogWorld: UWorld::CleanupWorld for Bryce_test, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-03.47.06:035][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.13-03.47.06:035][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel' has LevelScriptBlueprint '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test' with GeneratedClass '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test_C' with ClassGeneratedBy '/Game/Bryces_Literal_Shit/Bryce_test.Bryce_test:PersistentLevel.Bryce_test'
+[2019.10.13-03.47.06:075][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.13-03.47.06:080][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.13-03.47.06:130][327]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: request failed, libcurl error: 0 (No error)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23f8c333f70 [can pipeline])
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 1 (Re-using existing connection! (#18) with host datarouter.ol.epicgames.com)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.93.59) port 443 (#18))
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 7 (Closing connection 18)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: 0000024001F42C00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-03.53.04:382][822]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-04.03.04:380][820]LogHttp: Warning: 0000024001F41A80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: request failed, libcurl error: 0 (No error)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23f8c333f70 [can pipeline])
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.165.171.83) port 443 (#21))
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 7 (Closing connection 21)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: 0000024001F41A80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-04.03.04:381][820]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: request failed, libcurl error: 0 (No error)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23f8c333f70 [can pipeline])
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.44.165) port 443 (#23))
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 7 (Closing connection 23)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: 0000024001F42E80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.13-04.09.04:360][418]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.13-04.19.41:629][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-04.19.41:743][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.13-04.19.42:931][657]LogSlate: Window 'Save Content' being destroyed
+[2019.10.13-04.19.42:987][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.10.13-04.19.43:223][657]LogSavePackage: Moving '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Bryce_test5EB4A99B4CFCCD1E01E7A394C06CEEA4.tmp' to '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Bryces_Literal_Shit/Bryce_test.umap'
+[2019.10.13-04.19.43:267][657]LogFileHelpers: Saving map 'Bryce_test' took 0.312
+[2019.10.13-04.19.43:310][657]LogSavePackage: Moving '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Button_to_doorACE46FE8413FBF1EB552AD9438CF5EB3.tmp' to '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Bryces_Literal_Shit/Button_to_door.uasset'
+[2019.10.13-04.19.43:370][657]LogSavePackage: Moving '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Saved/Door_ButtonACD163664887149519348EABCD303BB7.tmp' to '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Content/Bryces_Literal_Shit/Door_Button.uasset'
+[2019.10.13-04.19.43:476][657]LogSlate: Window 'MagnetoCrab - Unreal Editor' being destroyed
+[2019.10.13-04.19.43:630][658]Cmd: QUIT_EDITOR
+[2019.10.13-04.19.44:551][658]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.13-04.19.44:566][658]LogExit: Preparing to exit.
+[2019.10.13-04.19.45:404][658]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:407][658]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:410][658]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:413][658]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:416][658]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:419][658]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:425][658]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:431][658]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:438][658]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:490][658]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.13-04.19.45:506][658]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.13-04.19.45:506][658]LogExit: Editor shut down
+[2019.10.13-04.19.45:506][658]LogExit: Transaction tracking system shut down
+[2019.10.13-04.19.46:325][658]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/bryce_000/Documents/GitHub/GameJamFall2019/GameJamFall2019/MagnetoCrab/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2019.10.13-04.19.46:325][658]LogFileManager: Warning: DeleteFile recovered during retry!
+[2019.10.13-04.19.46:325][658]LogExit: Object subsystem successfully closed.
+[2019.10.13-04.19.46:345][658]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module BlueprintGraph (672)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module MeshBuilder (658)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.10.13-04.19.46:376][658]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.10.13-04.19.46:377][658]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.10.13-04.19.46:378][658]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.10.13-04.19.46:475][658]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.10.13-04.19.46:475][658]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.10.13-04.19.46:475][658]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.10.13-04.19.46:475][658]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.10.13-04.19.46:475][658]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.10.13-04.19.46:475][658]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.10.13-04.19.46:475][658]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.10.13-04.19.46:476][658]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.10.13-04.19.46:531][658]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.10.13-04.19.46:537][658]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.10.13-04.19.46:538][658]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.10.13-04.19.46:539][658]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.10.13-04.19.46:542][658]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.10.13-04.19.46:686][658]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.10.13-04.19.46:686][658]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.10.13-04.19.46:687][658]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.10.13-04.19.46:688][658]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.13-04.19.46:688][658]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.13-04.19.46:688][658]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.13-04.19.46:688][658]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.13-04.19.46:688][658]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.13-04.19.46:688][658]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.13-04.19.46:789][658]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.13-04.19.46:890][658]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.13-04.19.46:890][658]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.13-04.19.46:891][658]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.13-04.19.46:891][658]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.13-04.19.46:891][658]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.13-04.19.46:891][658]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.13-04.19.46:892][658]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.13-04.19.46:893][658]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.13-04.19.46:893][658]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.13-04.19.46:893][658]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.13-04.19.46:893][658]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.13-04.19.46:893][658]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.13-04.19.46:896][658]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.13-04.19.46:897][658]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.13-04.19.46:897][658]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.13-04.19.46:898][658]LogDerivedDataCache: Shutdown
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.13-04.19.46:898][658]LogXGEController: Cleaning working directory: C:/Users/bryce_000/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.13-04.19.46:898][658]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.13-04.19.46:899][658]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.13-04.19.46:903][658]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.13-04.19.46:903][658]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.13-04.19.46:903][658]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.13-04.19.46:903][658]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.13-04.19.46:903][658]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.13-04.19.46:905][658]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.13-04.19.46:905][658]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.13-04.19.46:906][658]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.13-04.19.46:906][658]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.13-04.19.46:927][658]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.13-04.19.46:928][658]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.13-04.19.46:928][658]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.13-04.19.46:929][658]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.13-04.19.46:947][658]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.13-04.19.46:947][658]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.13-04.19.46:947][658]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B855579C9-4EF3-205C-8C4C-40BCEAB46084%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=50262e4a4beb44080bd1da93ebd81c17%7C1f69d8e6bf364057be4eba54191c2252%7C6b3b1a3d-b79b-423f-b17e-e1bd530041fd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.13-04.19.46:962][658]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.13-04.19.46:964][658]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.13-04.19.46:965][658]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.13-04.19.46:966][658]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.13-04.19.46:968][658]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.13-04.19.46:969][658]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.13-04.19.46:969][658]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.13-04.19.46:969][658]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.13-04.19.46:969][658]LogD3D11RHI: Shutdown
+[2019.10.13-04.19.46:969][658]LogD3D11RHI: CleanupD3DDevice
+[2019.10.13-04.19.46:970][658]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.13-04.19.46:970][658]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.13-04.19.46:970][658]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.13-04.19.47:061][658]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.13-04.19.47:071][658]LogExit: Exiting.
+[2019.10.13-04.19.47:099][658]Log file closed, 10/12/19 23:19:47
